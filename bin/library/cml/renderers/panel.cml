@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cml>
+
+	<TouchContainer class="panel-container" mouseChildren="false" disableNativeTransform="true" >
+		<Media class="panel-media" src="{media-source}" />
+		<Text color="0xffffff" x="{description-x}" width="{description-width}" class="panel-text">{description-en}</Text>
+		<Gesture ref="n-tap"/>
+	</TouchContainer>
+
+</cml>

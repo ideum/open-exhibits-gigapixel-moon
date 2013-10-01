@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cml>
+	
+<Hotspot id="{id}" sceneX="{scene-x}" sceneY="{scene-y}" component="{album-id}" compCenterToStage="true" compResetOnOpen="true" tether="false">
+	<Text class="location-title" text="{location-title}" color="0xffffff" fontSize="50" width="500" />
+		<Button x="{button-x}" y="{button-y}" class="hotspot" dispatch="down:hotspot" hit="hotspot-hit" initial="hotspot-up" down="hotspot-down" up="hotspot-up" out="hotspot-up">
+			<Container id="hotspot-up">
+				<Image id="graphic" src="library/images/moon-info.png"/>
+			</Container>
+			<Container id="hotspot-down">
+				<Image id="graphic" src="library/images/moon-info.png"/>
+			</Container>	
+			<Container id="hotspot-hit">
+				<Image id="graphic" src="library/images/moon-info.png"/>
+			</Container>
+		</Button>
+</Hotspot>
+				
+</cml>

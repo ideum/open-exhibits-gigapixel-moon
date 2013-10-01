@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cml>
+	
+	<hotspot>
+		<scene-x>10350</scene-x>
+		<scene-y>530</scene-y>
+		<album-id>family-mtn-album</album-id>		
+		<id>family-mtn</id>
+		<location-title>Family Mountain</location-title>
+		<button-x>410</button-x>
+		<button-y>10</button-y>
+	</hotspot>
+	
+	<album>
+		<id>family-mtn-album</id>	
+		<panel-path>locations/family-mtn.cml</panel-path>
+		<title-en>Family Mountain</title-en>
+	</album>
+	
+	
+	<panel>
+		<media-source>locations/media/family.jpg</media-source>
+		<description-en>
+			The Apollo 17 crew chose the name "Family Mountain" for one of the mountains guarding the western entrance to Taurus-Littrow "to honor the families of the 
+			crew members and their associates. Their sacrifices go unrecorded but not unrecognized." 
+		</description-en>
+	</panel>
+		
+</cml>

@@ -1,0 +1,5 @@
+# Ignore Files
+bin/library/images/
+bin/library/moon/
+bin/locations/media/
+obj/

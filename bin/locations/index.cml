@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cml>
+
+	
+<Include src="locations/sculptured-hills.cml" />
+<Include src="locations/bear-mtn.cml" />
+<Include src="locations/east-massif.cml" />
+<Include src="locations/south-massif.cml" />
+<Include src="locations/family-mtn.cml" />
+<Include src="locations/north-massif.cml" />
+</cml>

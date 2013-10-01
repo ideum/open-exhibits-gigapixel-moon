@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cml>
+	
+	<hotspot>
+		<scene-x>1400</scene-x>
+		<scene-y>265</scene-y>
+		<album-id>sculptured-hills-album</album-id>		
+		<id>sculptured-hills</id>
+		<location-title>Sculptured Hills</location-title>
+		<button-x>380</button-x>
+		<button-y>10</button-y>
+	</hotspot>
+	
+	<album>
+		<id>sculptured-hills-album</id>	
+		<panel-path>locations/sculptured-hills.cml</panel-path>
+		<title-en>Sculptured Hills</title-en>
+	</album>
+	
+	
+	<panel>
+		<media-source>locations/media/sculptured-hills.jpg</media-source>
+		<description-en>
+			The Sculptured Hills are underlain by material that may be different from the material beneath the massifs. Its different appearance is 
+			largely the result of its different topographic ex­pression. The Sculptured Hills unit forms several closely spaced and rounded hills. 
+		</description-en>
+	</panel>
+		
+</cml>

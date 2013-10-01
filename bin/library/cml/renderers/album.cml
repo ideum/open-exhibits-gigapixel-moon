@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cml>
+	
+	<OEAlbumViewer id="{id}" class="viewers" touchChildren="true" clusterBubbling="true" gestureReleaseInertia="false" disableNativeTransform="true">
+		
+		<TouchContainer2 targetParent="false" disableNativeTransform="true">
+			
+			<Graphic class="title-graphic" />
+			
+			<Text class="title-text" text="{title-en}" />
+			
+			<Gesture ref="n-drag-viewer" />			
+		</TouchContainer2>
+
+		
+		<OEAlbum id="front" class="albums" dragGesture="n-drag-album" targetParent="false" mouseChildren="true" clusterBubbling="true" backgroundAlpha="0">
+			
+			<RenderKit>	
+				<Renderer dataRootTag="panel" dataPath="{panel-path}">
+					<Include src="library/cml/renderers/panel.cml" />
+				</Renderer>				
+			</RenderKit>
+			
+		</OEAlbum>		
+		
+		
+		<RadioButtons id="rb1" class="page-buttons" labels="0,1,2" />
+		
+		<Container x="670" y="20">
+		<Include src="library/cml/buttons/closeButton.cml" />
+		</Container>
+		
+		<Gesture ref="n-scale-viewer" />
+		<Gesture ref="n-rotate-viewer" />
+		
+	</OEAlbumViewer>
+
+</cml>

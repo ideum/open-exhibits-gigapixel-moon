@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cml>
+	
+	<hotspot>
+		<scene-x>4890</scene-x>
+		<scene-y>535</scene-y>
+		<album-id>east-massif-album</album-id>		
+		<id>east-massif</id>
+		<location-title>East Massif</location-title>
+		<button-x>280</button-x>
+		<button-y>10</button-y>
+	</hotspot>
+	
+	<album>
+		<id>east-massif-album</id>	
+		<panel-path>locations/east-massif.cml</panel-path>
+		<title-en>East Massif</title-en>
+	</album>
+	
+	
+	<panel>
+		<media-source>locations/media/east-massif.jpg</media-source>
+		<description-en>
+			 The sculptured hills and East Massif make up the east edge of the valley and to the west, a scarp cuts across the 
+			 valley floor and rises about two kilometres (1.2 miles) above it. The North and South massifs funnel into the main outlet of the valley into Mare Serenitatis, 
+			 partially blocked by Family mountain. 
+		</description-en>
+	</panel>
+		
+</cml>

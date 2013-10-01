@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cml>
+	
+	<Gigapixel id="gpv1" mouseChildren="true" src="library/moon/moon.xml" width="1920" height="1080" visibilityRatio="0.99" minScaleConstraint="0.65">
+		
+		<!-- Render Hotspots -->
+		<RenderKit>
+			<Renderer dataRootTag="hotspot" dataPath="locations/index.cml">
+				<Include src="library/cml/renderers/hotspot.cml" />
+			</Renderer>
+		</RenderKit>
+		
+	</Gigapixel>
+	
+</cml>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cml>
+	
+	<hotspot>
+		<scene-x>6570</scene-x>
+		<scene-y>730</scene-y>
+		<album-id>bear-mtn-album</album-id>		
+		<id>east-massif</id>
+		<location-title>Bear Mountain</location-title>
+		<button-x>380</button-x>
+		<button-y>10</button-y>
+	</hotspot>
+	
+	<album>
+		<id>bear-mtn-album</id>	
+		<panel-path>locations/bear-mtn.cml</panel-path>
+		<title-en>Bear Mountain</title-en>
+	</album>
+	
+	
+	<panel>
+		<media-source>locations/media/bear-mtn.jpg</media-source>
+		<description-en>
+			Astronaut Jack Schmitt with Bear Mountain rightward of him, and East Massif at left. 
+		</description-en>
+	</panel>
+		
+</cml>

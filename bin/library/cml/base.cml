@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cml css="library/css/styles.css" simulator="false" fullscreen="true">
+
+
+	<StageKit fullscreen="true" />
+	
+	<!-- External Libraries -->
+	<LibraryKit>
+		<Library type="swf" src="library/swfs/openexhibits_assets.swf" />
+	</LibraryKit>
+
+	<!-- Gigapixel and Hotspots -->
+	<Include src="library/cml/Gigapixel.cml" />	
+	
+
+	<!-- Albums -->
+	<RenderKit>	
+		<Renderer dataRootTag="album" dataPath="locations/index.cml">
+			<Include src="library/cml/renderers/album.cml" />
+		</Renderer>
+	</RenderKit>	
+	
+	<Container class="block">
+		<Graphic x="0" y="0" shape="rectangle" width="400" height="1080" fill="color" color="0x000000" lineStroke="0" alpha="0.7" />
+			<Image src="library/images/shuttle-icon.png" x="20" y="20" width="40"/>
+			<Text text="Apollo 17 Moon Landing" color="0xffffff" x="70" y="30" fontSize="27" width="500" multiline="true" wordWrap="true" />
+	</Container>
+	<Album x="20" y="100" margin="0" horizontal="false" height="1080" backgroundAlpha="0">	         																
+		<Image src="library/images/1.jpg" width="360"/>
+		<Image src="library/images/2.jpg" width="360" />
+		<Image src="library/images/3.jpg" width="360" />
+		<Image src="library/images/4.jpg" width="360"/>
+		<Image src="library/images/5.jpg" width="360"/>
+		<Image src="library/images/6.jpg" width="360"/>
+		<Image src="library/images/7.jpg" width="360"/>
+		<Image src="library/images/8.jpg" width="360"/>
+		<Image src="library/images/9.jpg" width="360"/>
+		<Image src="library/images/10.jpg" width="360"/>
+		<Image src="library/images/11.jpg" width="360"/>
+		<Image src="library/images/12.jpg" width="360"/>
+		<Image src="library/images/13.jpg" width="360"/>
+	</Album> 
+	
+</cml>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cml>
+	
+	<hotspot>
+		<scene-x>8350</scene-x>
+		<scene-y>330</scene-y>
+		<album-id>south-massif-album</album-id>		
+		<id>south-massif</id>
+		<location-title>South Massif</location-title>
+		<button-x>330</button-x>
+		<button-y>10</button-y>
+	</hotspot>
+	
+	<album>
+		<id>south-massif-album</id>	
+		<panel-path>locations/south-massif.cml</panel-path>
+		<title-en>South Massif</title-en>
+	</album>
+	
+	
+	<panel>
+		<media-source>locations/media/south1.jpg</media-source>
+		<description-en>
+			Large massifs are located on either side of the valley, called the North and South massifs, respective to their geographic '
+			location in relation to each other.[1] The height of these massifs give the valley a depth greater than that of the Grand Canyon in the United States.
+		</description-en>
+	</panel>
+	
+	<panel>
+		<media-source>locations/media/south2.jpg</media-source>
+		<description-en>
+			Along the South Massif lies Bear Mountain, named after a mountain of the same name near Harrison Schmitt's hometown of Silver City, New Mexico.
+		</description-en>
+	</panel>
+	
+	<panel>
+		<media-source>locations/media/south3.jpg</media-source>
+		<description-en>
+			 The North and South massifs funnel into the main outlet of the valley into Mare Serenitatis, partially blocked by Family mountain. The central crater cluster has a birdsfoot ejecta pattern that points in the direction of Tycho and the debris pattern of the light mantle points directly towards the South massif.
+		</description-en>
+	</panel>
+		
+</cml>

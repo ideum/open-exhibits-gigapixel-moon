@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cml>
+	
+	<hotspot>
+		<scene-x>12800</scene-x>
+		<scene-y>230</scene-y>
+		<album-id>north-massif-album</album-id>		
+		<id>north-massif</id>
+		<location-title>North Massif</location-title>
+		<button-x>330</button-x>
+		<button-y>10</button-y>
+	</hotspot>
+	
+	<album>
+		<id>north-massif-album</id>	
+		<panel-path>locations/north-massif.cml</panel-path>
+		<title-en>North Massif</title-en>
+	</album>
+	
+	
+	<panel>
+		<media-source>locations/media/north.png</media-source>
+		<description-en>
+			Ths North Massif is a large, displaced section of the Moon’s crust located at the edge of the Serenitatis Basin. 
+		</description-en>
+	</panel>
+		
+</cml>

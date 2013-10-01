@@ -1,0 +1,11 @@
+.location-title{color:0xffffff;font-size:50;font-family:'Open Sans',serif;}
+.viewers{visible:false;autoTextLayout:false;linkAlbums:true;scale:1.25;}
+.albums{y:70;loop:false;horizontal:true;applyMask:true;visible:true;}
+.title-container{width:520;height:360;}
+.title-graphic{shape:rectangle;width:720;height:360;fill:color;lineStroke:0;color:0xa3654c;alpha:0.8;}
+.title-text{x:20;y:20;color:0xffffff;font-size:20;width:850;textBitmap:false;text-align:left;gridFitType:none;}
+.page-buttons{verticalLayout:false;absOffset:true;horizontalOffset:10;x:18;y:310;selectedColor:0x653a28;selectedFillRatio:1;fontAlpha:0;fontSize:20;}
+#panel-container{width:720;height:215;y:15;}
+#panel-text{font-size:14;textBitmap:false;leading:2;color:0xffffff;multline:true;wordWrap:true;gridFitType:none;text-align:left;}
+#gpv1{x:0;y:0;width:1920;height:1080;rotation:0;}
+
