@@ -11,7 +11,6 @@ package
 	import com.gestureworks.cml.utils.*;
 	import com.gestureworks.core.*;
 	import com.gestureworks.events.*;
-	import com.greensock.TimelineMax;
 	import com.greensock.TweenMax;
 	import flash.events.*;
 	import flash.geom.Point;

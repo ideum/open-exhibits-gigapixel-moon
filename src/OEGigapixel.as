@@ -11,7 +11,6 @@
 	import org.openzoom.flash.descriptors.IMultiScaleImageDescriptor;
 	import org.openzoom.flash.viewport.constraints.CenterConstraint;
 	import org.openzoom.flash.viewport.constraints.CompositeConstraint;
-	import org.openzoom.flash.viewport.constraints.FillConstraint;
 	import org.openzoom.flash.viewport.constraints.ScaleConstraint;
 	import org.openzoom.flash.viewport.constraints.VisibilityConstraint;
 	import org.openzoom.flash.viewport.constraints.ZoomConstraint;
@@ -21,7 +20,7 @@
 	/**
 	 * 
 	 * 
-	 * @author Josh
+	 * @author Ideum
 	 */
 	public class OEGigapixel extends Gigapixel
 	{
