@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<root>
+	<imageset
+		url="moon_files/{l}/{c}_{r}.png"
+		levels="16"
+		width="16810"
+		height="1708"
+		projection="perspective"
+		maxZoom="2.000000"
+		tileWidth="254"
+		tileHeight="254"
+		tileOverlap="1"
+	/>
+</root>
