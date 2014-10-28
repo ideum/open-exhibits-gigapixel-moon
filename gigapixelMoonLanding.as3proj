@@ -17,6 +17,8 @@
   <classpaths>
     <class path="src" />
     <class path="..\..\lib" />
+    <class path="..\..\gestureworks-flash-cml" />
+    <class path="..\..\gestureworks-flash-gml" />
   </classpaths>
   <!-- Build options -->
   <build>
@@ -67,6 +69,9 @@
     <element path="..\..\gwas\development\lib\gml_ext.swc" />
     <element path="..\..\lib\GestureWorksGML.swc" />
     <element path="..\..\lib\GestureWorksCML.swc" />
+    <element path="..\..\lib\cml_ext\openzoom.swc" />
+    <element path="..\..\lib\cml_ext.swc" />
+    <element path="..\..\lib\gml_ext.swc" />
   </libraryPaths>
   <!-- External Libraries -->
   <externalLibraryPaths>
@@ -104,7 +109,7 @@
   </options>
   <!-- Plugin storage -->
   <storage>
-    <entry key="at_enabled"><![CDATA[1]]></entry>
+    <entry key="at_enabled"><![CDATA[0]]></entry>
     <entry key="at_password"><![CDATA[]]></entry>
   </storage>
 </project>
