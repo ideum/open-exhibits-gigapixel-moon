@@ -66,9 +66,6 @@
     <element path="..\..\gwas\development\lib\gml_ext.swc" />
     <element path="..\..\lib\GestureWorksGML.swc" />
     <element path="..\..\lib\GestureWorksCML.swc" />
-    <element path="..\..\lib\cml_ext\openzoom.swc" />
-    <element path="..\..\lib\cml_ext.swc" />
-    <element path="..\..\lib\gml_ext.swc" />
     <element path="lib\GestureWorksCML_custom.swc" />
     <element path="lib\GestureWorksGML_custom.swc" />
   </libraryPaths>
