@@ -7,6 +7,9 @@ Hotspots on the gigapixel open information panels with slideshows of images and 
 
 The exhibit is fully configured in CML to support easy customization of features. Each hotspot can have an associated title, slideshow of images, and text descriptions. Font sizes and colors, information overlay background color, and the media files are all customizable through CML.
 
+VIDEO<br>
+https://vimeo.com/71291508
+
 SUPPORTED OPERATING SYSTEMS<br>
 Windows 7<br>
 Windows 8
